@@ -1,0 +1,214 @@
+{
+  "results": [
+   {
+      "id": 1,
+      "callsign": "LOCAL TG1",
+      "tgid": "TG1"
+   },
+   {
+      "id": 2,
+      "callsign": "LOCAL/CLUSTER TG2",
+      "tgid": "TG2"
+   },
+   {
+      "id": 6,
+      "callsign": "HB Reflector",
+      "tgid": "TG6"
+   },
+       {
+      "id": 7,
+      "callsign": "HB Local",
+      "tgid": "TG7"
+   },
+   {
+      "id": 8,
+      "callsign": "HB Cluster",
+      "tgid": "TG8"
+   },
+   {
+      "id": 9,
+      "callsign": "TG LOCAL",
+      "tgid": "TG9"
+   },
+   {
+      "id": 5155,
+      "callsign": "RAPINAS",
+      "tgid": "TG5155"
+   },
+   {
+      "id": 10005155,
+      "callsign": "RAPINAS LAMA",
+      "tgid": "TG92"
+   },
+   {
+      "id": 101,
+      "callsign": "RAPI Daerah 01 ACEHh",
+      "tgid": "TG1010000"
+   },
+   {
+      "id": 102,
+      "callsign": "RAPI Daerah 02 SUMUT",
+      "tgid": "TG102"
+   },
+   {
+      "id": 103,
+      "callsign": "RAPI Daerah 02 SUMBAR",
+      "tgid": "TG103"
+   },
+   {
+      "id": 104,
+      "callsign": "RAPI Daerah 04 RIAU",
+      "tgid": "TG104"
+   },
+   {
+      "id": 105,
+      "callsign": "RAPI Daerah 05 JAMBI",
+      "tgid": "TG105"
+   },
+   {
+      "id": 106,
+      "callsign": "RAPI Daerah 06 SUMSEL",
+      "tgid": "TG106"
+   },
+   {
+      "id": 107,
+      "callsign": "RAPI Daerah 07 BENGKULU",
+      "tgid": "TG107"
+   },
+   {
+      "id": 108,
+      "callsign": "RAPI Daerah 08 LAMPUNG",
+      "tgid": "TG108"
+   },
+   {
+      "id": 109,
+      "callsign": "RAPI Daerah 09 DKI JAKARTA",
+      "tgid": "TG109"
+   },
+   {
+      "id": 110,
+      "callsign": "RAPI Daerah 10 JABAR",
+      "tgid": "TG110"
+   },
+   {
+      "id": 111,
+      "callsign": "RAPI Daerah 11 JATENG",
+      "tgid": "TG111"
+   },
+   {
+      "id": 112,
+      "callsign": "RAPI Daerah 12 DI YOGYA",
+      "tgid": "TG112"
+   },
+   {
+      "id": 113,
+      "callsign": "RAPI Daerah 13 JATIM",
+      "tgid": "TG222"
+   },
+   {
+      "id": 114,
+      "callsign": "RAPI Daerah 14 BALI",
+      "tgid": "TG114"
+   },
+   {
+      "id": 115,
+      "callsign": "RAPI Daerah 15 NTB",
+      "tgid": "TG115"
+   },
+   {
+      "id": 116,
+      "callsign": "RAPI Daerah 16 NTBT",
+      "tgid": "TG116"
+   },
+   {
+      "id": 117,
+      "callsign": "RAPI Daerah 17 KALUT",
+      "tgid": "TG117"
+   },
+   {
+      "id": 118,
+      "callsign": "RAPI Daerah 18 KALTIM",
+      "tgid": "TG118"
+   },
+   {
+      "id": 119,
+      "callsign": "RAPI Daerah 19 KALSEL",
+      "tgid": "TG119"
+   },
+   {
+      "id": 120,
+      "callsign": "RAPI Daerah 20 KALTENG",
+      "tgid": "TG120"
+   },
+   {
+      "id": 121,
+      "callsign": "RAPI Daerah 21 KALBAR",
+      "tgid": "TG121"
+   },
+   {
+      "id": 122,
+      "callsign": "RAPI Daerah 22 SULUT",
+      "tgid": "TG122"
+   },
+   {
+      "id": 123,
+      "callsign": "RAPI Daerah 23 SULTENGAH",
+      "tgid": "TG122"
+   },
+   {
+      "id": 124,
+      "callsign": "RAPI Daerah 24 SULTRA",
+      "tgid": "TG124"
+   },
+   {
+      "id": 125,
+      "callsign": "RAPI Daerah 25 SULTENGRA",
+      "tgid": "TG125"
+   },
+   {
+      "id": 126,
+      "callsign": "RAPI Daerah 26 MALUKU",
+      "tgid": "TG126"
+   },
+   {
+      "id": 127,
+      "callsign": "RAPI Daerah 27 PAPUA",
+      "tgid": "TG127"
+   },
+   {
+      "id": 128,
+      "callsign": "RAPI Daerah 28 MALUT",
+      "tgid": "TG128"
+   },
+   {
+      "id": 129,
+      "callsign": "RAPI Daerah 29 PAPBAR",
+      "tgid": "TG129"
+   },
+   {
+      "id": 130,
+      "callsign": "RAPI Daerah 30 BANTEN",
+      "tgid": "TG130"
+   },
+   {
+      "id": 131,
+      "callsign": "RAPI Daerah 31 BBEL",
+      "tgid": "TG131"
+   },
+   {
+      "id": 132,
+      "callsign": "RAPI Daerah 32 GORONTALO",
+      "tgid": "TG132"
+   },
+   {
+      "id": 133,
+      "callsign": "RAPI Daerah 33 KEPRI",
+      "tgid": "TG133"
+   },
+   {
+      "id": 134,
+      "callsign": "RAPI Daerah 34 SULBAR",
+      "tgid": "TG134"
+   },
+]
+}
