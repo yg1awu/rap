@@ -1,113 +1,178 @@
 DMRID;CALLSIGN;NAMA;DAERAH;WILAYAH;LOKAL
-280001;JZ10EGG;GILANG GUMILAR;RAPI Daerah 10 Jawa Barat;Kota Tasikmalaya;Tamansari
-280002;JZ10LLB;HADIYANTO;RAPI Daerah 10 Jawa Barat;Kota Bekasi;Bekasi Barat
-280003;JZ13AIV;SARJONO;RAPI Daerah 13 Jawa Timur;Kota Surabaya;Krembangan
-280004;JZ13NBM;SUHARTO;RAPI Daerah 13 Jawa Timur;Nganjuk;Tanjung Anom
-280005;JZ13AGU;FIRMAN HIDAYAT;RAPI Daerah 13 Jawa Timur;Kota Surabaya;Gubeng
-280006;JZ09AGV;AMIRRUL IMAN;RAPI Daerah 09 DKI Jakarta;Kota Jakarta Timur;Pulo Gadung
-280007;JZ02EAB;ALI AKBAR;RAPI Daerah 02 Sumatera Utara;Langkat;Tanjung Pura
-280008;JZ14AYH;REDDIYANTO SOENGGAWAN;RAPI Daerah 14 Bali;Badung;South Kuta
-280009;JZ02EMY;DHANYAR WINDHARMAWAN;RAPI Daerah 02 Sumatera Utara;Langkat;Secanggang
-280010;JZ10ISO;ANWARI;RAPI Daerah 10 Jawa Barat;Kota Cirebon;Harjamukti
-280011;JZ10HZR;PURNAMA;RAPI Daerah 10 Jawa Barat;Kota Tasikmalaya;Bungursari
-280012;JZ10GBZ;IWAN HERMAWAN;RAPI Daerah 10 Jawa Barat;Bekasi;Setu
-280013;JZ15BW;LALU BALYA WIRANEGARA;RAPI Daerah 15 Nusa Tenggara Barat;;
-280014;JZ30TOA;OKTALIO WAHYUDI;RAPI Daerah 30 Banten;Tangerang;Kresek
-280015;JZ13FCH;SUBHAN FAJAR SIDIK;RAPI Daerah 13 Jawa Timur;Bangkalan;Kamal
-280016;JZ02AJF;ABU SOFYAN;RAPI Daerah 02 Sumatera Utara;Langkat;Tanjung Pura
-280017;JZ29BDT;MUHAMMAD POWER YULIANTO;RAPI Daerah 29 Papua Barat;Papua Barat;Sorong
-280018;JZ13BKQ;BETANTYO WISNU HERNAWAN;RAPI Daerah 13 Jawa Timur;Bangkalan;Kamal
-280019;JZ29ACX;TRI BUDI IRIANTO;RAPI Daerah 29 Papua Barat;Kota Sorong;Sorong Timur
-280020;JZ09AGG;MOHAMAD FERDINAN PULUBUHU;RAPI Daerah 09 DKI Jakarta;Kota Jakarta Barat;Palmerah
-280021;JZ10ARU;AYODYA HANINDITO;RAPI Daerah 10 Jawa Barat;Bekasi;Cikarang Barat
-280022;JZ10DSC;AGUS RAHMAN HIDAYAT;RAPI Daerah 10 Jawa Barat;Tasikmalaya;Sodonghilir
-280023;JZ11AAA;MUGIONO;RAPI Daerah 11 Jawa Tengah;Pemalang;Bantarbolang
-280024;JZ01COZ;HASNUL ZULFA HS;RAPI Daerah 01 Aceh;Aceh Utara;Dewantara
-280025;JZ12AXC;BAMBANG ANGGORO NUGROHO;RAPI Daerah 12 Daerah Istimewa Yogyakarta;Sleman;Kalasan
-280026;JZ10HJA;UDIN ASRORUDIN;RAPI Daerah 10 Jawa Barat;Kota Bogor;Bogor Utara
-280027;JZ09AMW;AGUS PAMBUDI;RAPI Daerah 09 DKI Jakarta;Kota Jakarta Barat;Palmerah
-280028;JZ29AP;ATOK PRASETYO;RAPI Daerah 29 Papua Barat;Sorong;Distrik Aimas
-280029;JZ11LXJ;IR.T MAHYUL FATA;RAPI Daerah 11 Jawa Tengah;;
-280030;JZ09RAH;ABDULLAH SYAFEI;RAPI Daerah 09 DKI Jakarta;Kota Jakarta Timur;Makasar
-280031;JZ13CKB;HERA PAGIANA;RAPI Daerah 13 Jawa Timur;Trenggalek;Kampak
-280032;JZ29AAK;FIRST NURUL JULIRIA YANTO;RAPI Daerah 29 Papua Barat;Kota Sorong;Sorong Timur
-280033;JZ10FAFL;IR.RUDY SETYAWAN;RAPI Daerah 10 Jawa Barat;Bogor;Tamansari
-280034;JZ09AST;RAHMAD RIZANI;RAPI Daerah 09 DKI Jakarta;Kota Jakarta Barat;Cengkareng
-280035;JZ09ACI;NICO PRAWIRA;RAPI Daerah 09 DKI Jakarta;Kota Jakarta Barat;Taman Sari
-280036;JZ29BS;SUKATELIN;RAPI Daerah 29 Papua Barat;Sorong;Distrik Aimas
-280037;JZ29BZY;M SHOLEH;RAPI Daerah 29 Papua Barat;Manokwari;Distrik Manokwari Barat
-280038;JZ29JH;JOS HENDRA RAHMA;RAPI Daerah 29 Papua Barat;Sorong;Distrik Aimas
-280039;JZ29DUS;IMAN LATUCONSINA;RAPI Daerah 29 Papua Barat;Kota Sorong;Sorong Timur
-280040;JZ15SW;SUHARTO;RAPI Daerah 15 Nusa Tenggara Barat;Kota Mataram;Sandubaya
-280041;JZ15DAZ;AHMAD FATONI;RAPI Daerah 15 Nusa Tenggara Barat;Kota Mataram;Sandubaya
-280042;JZ15AEG;EDY SUPRIYANTO;RAPI Daerah 15 Nusa Tenggara Barat;Kota Mataram;Selaparang
-280043;JZ09NEL;AGUSTINUS SURENDRO. B;RAPI Daerah 09 DKI Jakarta;Kota Jakarta Timur;Ciracas
-280044;JZ15DLY;M. YUSUF;RAPI Daerah 15 Nusa Tenggara Barat;Kota Mataram;Sandubaya
-280045;JZ15DPK;AHMAD PADLI;RAPI Daerah 15 Nusa Tenggara Barat;Kota Mataram;Sandubaya
-280046;JZ15DLE;SAIDI;RAPI Daerah 15 Nusa Tenggara Barat;;
-280047;JZ15DSL;SALMAN FARIZ;RAPI Daerah 15 Nusa Tenggara Barat;Kota Mataram;Mataram
-280048;JZ15DPD;SAEFUDIN;RAPI Daerah 15 Nusa Tenggara Barat;Kota Mataram;Mataram
-280049;JZ29SZA;SUMARNO;RAPI Daerah 29 Papua Barat;Sorong;Distrik Mayamuk
-280050;JZ13HAI;RIJQI SADAM FAUZI;RAPI Daerah 13 Jawa Timur;Blitar;Ponggok
-280051;JZ29AIK;IFMAWAN M. RASMAN;RAPI Daerah 29 Papua Barat;Kota Sorong;Sorong Utara
-280052;JZ29BSY;TIMOTIUS SUBAY;RAPI Daerah 29 Papua Barat;Manokwari;Distrik Manokwari Barat
-280053;JZ29CHA;CHARLES TETHOL;RAPI Daerah 29 Papua Barat;Manokwari;Distrik Manokwari Barat
-280054;JZ29AFQ;AFRIANSYAH;RAPI Daerah 29 Papua Barat;Manokwari;Distrik Manokwari Barat
-280055;JZ30BHZ;KEVIN SUBAKTI;RAPI Daerah 30 Banten;Kota Tangerang;Cibodas
-280056;JZ29BZS;SONY WILSTON IMBIRI;RAPI Daerah 29 Papua Barat;Manokwari;Distrik Manokwari Barat
-280057;JZ11BTS;PARSONO;RAPI Daerah 11 Jawa Tengah;Kota Pekalongan;Pekalongan Utara
-280058;JZ10EKS;ASEP SAMSUL ISKANDAR;RAPI Daerah 10 Jawa Barat;Kota Tasikmalaya;Purbaratu
-280059;JZ10EDV;ANDI RAHMAN;RAPI Daerah 10 Jawa Barat;Kota Tasikmalaya;Kawalu
-280060;JZ29BOR;RAMLAN ADRIAN;RAPI Daerah 29 Papua Barat;Manokwari;Distrik Manokwari Selatan
-280061;JZ29BSY;TIMOTIUS SUBAY;RAPI Daerah 29 Papua Barat;Manokwari;Distrik Manokwari Barat
-280062;JZ10EEB;JAPAR SIDIK;RAPI Daerah 10 Jawa Barat;Kota Tasikmalaya;Purbaratu
-280063;JZ10EML;AGUS NUGRAHA;RAPI Daerah 10 Jawa Barat;Kota Tasikmalaya;Indihiang
-280064;JZ29VE;VICTOR EDYSON;RAPI Daerah 29 Papua Barat;Manokwari;Distrik Manokwari Barat
-280065;JZ10HBC;ASEP SADELI DAHLAN ISKANDAR;RAPI Daerah 10 Jawa Barat;Kota Tasikmalaya;Kawalu
-280066;JZ12AVO;EKO SUSANTO;RAPI Daerah 12 Daerah Istimewa Yogyakarta;Bantul;Sedayu
-280067;JZ13DPX;NAUFAL HAFIZ SUBAGIYO;RAPI Daerah 13 Jawa Timur;Sidoarjo;Taman
-280068;JZ13BNY;ZAINURI;RAPI Daerah 13 Jawa Timur;Gresik;Sidayu
-280069;JZ10ESH;MARIYANTO;RAPI Daerah 10 Jawa Barat;Bekasi;Setu
-280070;JZ11WEZ;AKHMAD DHOHRI;RAPI Daerah 11 Jawa Tengah;Blora;Blora
-280071;JZ29SZE;FAJRI RAMADHANI;RAPI Daerah 29 Papua Barat;Sorong;Distrik Mayamuk
-280072;JZ29AFP;MAULANA AKBAR FACHRUDDIN;RAPI Daerah 29 Papua Barat;Manokwari;Distrik Manokwari Barat
-280073;JZ18ACK;SUTAN P. LUBIS;RAPI Daerah 18 Kalimantan Timur;Kota Balikpapan;
-280074;JZ10EEI;E. GUNAWAN;RAPI Daerah 10 Jawa Barat;Kota Tasikmalaya;Kawalu
-280075;JZ04AHU;JOHAN GOZALI;RAPI Daerah 04 Riau;Kota Pekanbaru;Payung Sekaki
-280076;JZ13AZL;SUPRIYADI;RAPI Daerah 13 Jawa Timur;Kota Surabaya;Sukolilo
-280077;JZ12ANT;YUDHA BAGAS RIZALDHI;RAPI Daerah 12 Daerah Istimewa Yogyakarta;Sleman;Moyudan
-280078;JZ29SAS;WIKARSA PRIMA SARI;RAPI Daerah 29 Papua Barat;Sorong;Distrik Aimas
-280079;JZ04FNE;ADMIRAL;RAPI Daerah 04 Riau;Kota Dumai;Dumai Timur
-280080;JZ04MIB;R.H. MIDJAYA HELMI;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280081;JZ13CUZ;PRASETYO ARDI NUGROHO;RAPI Daerah 13 Jawa Timur;Ponorogo;Jenangan
-280082;JZ04NTO;HIMANTO;RAPI Daerah 04 Riau;Kuantan Singingi;Kuantan Tengah
-280083;JZ02TGK;ANDI S HARAHAP;RAPI Daerah 02 Sumatera Utara;Padang Sidimpuan;Padang Sidimpuan
-280084;JZ04EAV;ASIR;RAPI Daerah 04 Riau;Bengkalis;Bengkalis
-280085;JZ04AKR;RIMON  USMAN;RAPI Daerah 04 Riau;Kota Pekanbaru;Tampan
-280086;JZ09LNA;IMAM DJAUHARI;RAPI Daerah 09 DKI Jakarta;Kota Jakarta Timur;Ciracas
-280087;JZ04MZH;HERIANDI BAHARUDDIN;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280088;JZ29TAN;FREDRIK GERALD TAN WAIRARA;RAPI Daerah 29 Papua Barat;Sorong;Distrik Mayamuk
-280089;JZ29ER;ILYAS RAMLAN;RAPI Daerah 29 Papua Barat;Kota Sorong;Sorong Timur
-280090;JZ04ARO;HARYANTO;RAPI Daerah 04 Riau;Kota Pekanbaru;Marpoyan Damai
-280091;JZ04MAK;SUSIYANTO;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280092;JZ04MGF;SYAMSUL  ALAM;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280093;JZ04MAG;BAMBANG WIJAYA;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280094;JZ02TUU;AKHIRMA ALFIANA SIREGAR;RAPI Daerah 02 Sumatera Utara;Kota Padang Sidempuan;Padang Sidempuan Selatan
-280095;JZ09HIA;EKO BUDHI SANTOSO;RAPI Daerah 09 DKI Jakarta;Kota Jakarta Timur;Pasar Rebo
-280096;JZ04FPI;SELAMAT RIADI;RAPI Daerah 04 Riau;Kota Dumai;Dumai Timur
-280097;JZ04FRT;RIO ARWANDITA;RAPI Daerah 04 Riau;Kota Dumai;Dumai Barat
-280098;JZ23DYP;FRANSISKUS PANDIBU;RAPI Daerah 23 Sulawesi Tengah;Kota Poso;Lage
-280099;JZ23DYV;FREDERICK IDRIS TORIPALU;RAPI Daerah 23 Sulawesi Tengah;Kota Poso;Lage
-280100;JZ23GIO;JERRY KALVARI PELENSA;RAPI Daerah 23 Sulawesi Tengah;Kota Poso;Poso
-280101;JZ04MEN;HENDRI;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280102;JZ04MPG;DELVI SUWANDI;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280103;JZ04MAT;AHMAD HARAHAP;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280104;JZ04MAB;SUTRISNO;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280105;JZ13AGL;HENDRO KRISTANTYO;RAPI Daerah 13 Jawa Timur;Kota Surabaya;Wonokromo
-280106;JZ02ERT;RINTO SIMATUPANG;RAPI Daerah 02 Sumatera Utara;Langkat;Gebang
-280107;JZ29AZU;EDI SANTOSO;RAPI Daerah 29 Papua Barat;Kota Sorong;Sorong Timur
-280108;JZ04MZZ;MAROJAHAN HP TOBING;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280109;JZ04MTS;TRI SAKTI TAVIF. S;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280110;JZ04MSD;SUWARDI;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
-280111;JZ04AIM;REZA FAHLEVI;RAPI Daerah 04 Riau;Kota Pekanbaru;Rumbai Pesisir
-280112;JZ04MKZ;WEMPI  KAMRI;RAPI Daerah 04 Riau;Pelalawan;Pangkalan Kerinci
+280001,JZ10EGG,GILANG GUMILAR,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Tamansari
+280002,JZ10LLB,HADIYANTO,RAPI Daerah 10 Jawa Barat,Kota Bekasi,Bekasi Barat
+280003,JZ13AIV,SARJONO,RAPI Daerah 13 Jawa Timur,Kota Surabaya,Krembangan
+280004,JZ13NBM,SUHARTO,RAPI Daerah 13 Jawa Timur,Nganjuk,Tanjung Anom
+280005,JZ13AGU,FIRMAN HIDAYAT,RAPI Daerah 13 Jawa Timur,Kota Surabaya,Gubeng
+280006,JZ09AGV,AMIRRUL IMAN,RAPI Daerah 09 DKI Jakarta,Kota Jakarta Timur,Pulo Gadung
+280007,JZ02EAB,ALI AKBAR,RAPI Daerah 02 Sumatera Utara,Langkat,Tanjung Pura
+280008,JZ14AYH,REDDIYANTO SOENGGAWAN,RAPI Daerah 14 Bali,Badung,South Kuta
+280009,JZ02EMY,DHANYAR WINDHARMAWAN,RAPI Daerah 02 Sumatera Utara,Langkat,Secanggang
+280010,JZ10ISO,ANWARI,RAPI Daerah 10 Jawa Barat,Kota Cirebon,Harjamukti
+280011,JZ10HZR,PURNAMA,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Bungursari
+280012,JZ10GBZ,IWAN HERMAWAN,RAPI Daerah 10 Jawa Barat,Bekasi,Setu
+280013,JZ15BW,LALU BALYA WIRANEGARA,RAPI Daerah 15 Nusa Tenggara Barat,,
+280014,JZ30TOA,OKTALIO WAHYUDI,RAPI Daerah 30 Banten,Tangerang,Kresek
+280015,JZ13FCH,SUBHAN FAJAR SIDIK,RAPI Daerah 13 Jawa Timur,Bangkalan,Kamal
+280016,JZ02AJF,ABU SOFYAN,RAPI Daerah 02 Sumatera Utara,Langkat,Tanjung Pura
+280017,JZ29BDT,MUHAMMAD POWER YULIANTO,RAPI Daerah 29 Papua Barat,Papua Barat,Sorong
+280018,JZ13BKQ,BETANTYO WISNU HERNAWAN,RAPI Daerah 13 Jawa Timur,Bangkalan,Kamal
+280019,JZ29ACX,TRI BUDI IRIANTO,RAPI Daerah 29 Papua Barat,Kota Sorong,Sorong Timur
+280020,JZ09AGG,MOHAMAD FERDINAN PULUBUHU,RAPI Daerah 09 DKI Jakarta,Kota Jakarta Barat,Palmerah
+280021,JZ10ARU,AYODYA HANINDITO,RAPI Daerah 10 Jawa Barat,Bekasi,Cikarang Barat
+280022,JZ10DSC,AGUS RAHMAN HIDAYAT,RAPI Daerah 10 Jawa Barat,Tasikmalaya,Sodonghilir
+280023,JZ11AAA,MUGIONO,RAPI Daerah 11 Jawa Tengah,Pemalang,Bantarbolang
+280024,JZ01COZ,HASNUL ZULFA HS,RAPI Daerah 01 Aceh,Aceh Utara,Dewantara
+280025,JZ12AXC,BAMBANG ANGGORO NUGROHO,RAPI Daerah 12 Daerah Istimewa Yogyakarta,Sleman,Kalasan
+280026,JZ10HJA,UDIN ASRORUDIN,RAPI Daerah 10 Jawa Barat,Kota Bogor,Bogor Utara
+280027,JZ09AMW,AGUS PAMBUDI,RAPI Daerah 09 DKI Jakarta,Kota Jakarta Barat,Palmerah
+280028,JZ29AP,ATOK PRASETYO,RAPI Daerah 29 Papua Barat,Sorong,Distrik Aimas
+280029,JZ11LXJ,IR.T MAHYUL FATA,RAPI Daerah 11 Jawa Tengah,,
+280030,JZ09RAH,ABDULLAH SYAFEI,RAPI Daerah 09 DKI Jakarta,Kota Jakarta Timur,Makasar
+280031,JZ13CKB,HERA PAGIANA,RAPI Daerah 13 Jawa Timur,Trenggalek,Kampak
+280032,JZ29AAK,FIRST NURUL JULIRIA YANTO,RAPI Daerah 29 Papua Barat,Kota Sorong,Sorong Timur
+280033,JZ10FAFL,IR.RUDY SETYAWAN,RAPI Daerah 10 Jawa Barat,Bogor,Tamansari
+280034,JZ09AST,RAHMAD RIZANI,RAPI Daerah 09 DKI Jakarta,Kota Jakarta Barat,Cengkareng
+280035,JZ09ACI,NICO PRAWIRA,RAPI Daerah 09 DKI Jakarta,Kota Jakarta Barat,Taman Sari
+280036,JZ29BS,SUKATELIN,RAPI Daerah 29 Papua Barat,Sorong,Distrik Aimas
+280037,JZ29BZY,M SHOLEH,RAPI Daerah 29 Papua Barat,Manokwari,Distrik Manokwari Barat
+280038,JZ29JH,JOS HENDRA RAHMA,RAPI Daerah 29 Papua Barat,Sorong,Distrik Aimas
+280039,JZ29DUS,IMAN LATUCONSINA,RAPI Daerah 29 Papua Barat,Kota Sorong,Sorong Timur
+280040,JZ15SW,SUHARTO,RAPI Daerah 15 Nusa Tenggara Barat,Kota Mataram,Sandubaya
+280041,JZ15DAZ,AHMAD FATONI,RAPI Daerah 15 Nusa Tenggara Barat,Kota Mataram,Sandubaya
+280042,JZ15AEG,EDY SUPRIYANTO,RAPI Daerah 15 Nusa Tenggara Barat,Kota Mataram,Selaparang
+280043,JZ09NEL,AGUSTINUS SURENDRO. B,RAPI Daerah 09 DKI Jakarta,Kota Jakarta Timur,Ciracas
+280044,JZ15DLY,M. YUSUF,RAPI Daerah 15 Nusa Tenggara Barat,Kota Mataram,Sandubaya
+280045,JZ15DPK,AHMAD PADLI,RAPI Daerah 15 Nusa Tenggara Barat,Kota Mataram,Sandubaya
+280046,JZ15DLE,SAIDI,RAPI Daerah 15 Nusa Tenggara Barat,,
+280047,JZ15DSL,SALMAN FARIZ,RAPI Daerah 15 Nusa Tenggara Barat,Kota Mataram,Mataram
+280048,JZ15DPD,SAEFUDIN,RAPI Daerah 15 Nusa Tenggara Barat,Kota Mataram,Mataram
+280049,JZ29SZA,SUMARNO,RAPI Daerah 29 Papua Barat,Sorong,Distrik Mayamuk
+280050,JZ13HAI,RIJQI SADAM FAUZI,RAPI Daerah 13 Jawa Timur,Blitar,Ponggok
+280051,JZ29AIK,IFMAWAN M. RASMAN,RAPI Daerah 29 Papua Barat,Kota Sorong,Sorong Utara
+280052,JZ29BSY,TIMOTIUS SUBAY,RAPI Daerah 29 Papua Barat,Manokwari,Distrik Manokwari Barat
+280053,JZ29CHA,CHARLES TETHOL,RAPI Daerah 29 Papua Barat,Manokwari,Distrik Manokwari Barat
+280054,JZ29AFQ,AFRIANSYAH,RAPI Daerah 29 Papua Barat,Manokwari,Distrik Manokwari Barat
+280055,JZ30BHZ,KEVIN SUBAKTI,RAPI Daerah 30 Banten,Kota Tangerang,Cibodas
+280056,JZ29BZS,SONY WILSTON IMBIRI,RAPI Daerah 29 Papua Barat,Manokwari,Distrik Manokwari Barat
+280057,JZ11BTS,PARSONO,RAPI Daerah 11 Jawa Tengah,Kota Pekalongan,Pekalongan Utara
+280058,JZ10EKS,ASEP SAMSUL ISKANDAR,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Purbaratu
+280059,JZ10EDV,ANDI RAHMAN,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Kawalu
+280060,JZ29BOR,RAMLAN ADRIAN,RAPI Daerah 29 Papua Barat,Manokwari,Distrik Manokwari Selatan
+280061,JZ04MGW,GUSWERI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280062,JZ10EEB,JAPAR SIDIK,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Purbaratu
+280063,JZ10EML,AGUS NUGRAHA,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Indihiang
+280064,JZ29VE,VICTOR EDYSON,RAPI Daerah 29 Papua Barat,Manokwari,Distrik Manokwari Barat
+280065,JZ10HBC,ASEP SADELI DAHLAN ISKANDAR,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Kawalu
+280066,JZ12AVO,EKO SUSANTO,RAPI Daerah 12 Daerah Istimewa Yogyakarta,Bantul,Sedayu
+280067,JZ13DPX,NAUFAL HAFIZ SUBAGIYO,RAPI Daerah 13 Jawa Timur,Sidoarjo,Taman
+280068,JZ13BNY,ZAINURI,RAPI Daerah 13 Jawa Timur,Gresik,Sidayu
+280069,JZ10ESH,MARIYANTO,RAPI Daerah 10 Jawa Barat,Bekasi,Setu
+280070,JZ11WEZ,AKHMAD DHOHRI,RAPI Daerah 11 Jawa Tengah,Blora,Blora
+280071,JZ29SZE,FAJRI RAMADHANI,RAPI Daerah 29 Papua Barat,Sorong,Distrik Mayamuk
+280072,JZ29AFP,MAULANA AKBAR FACHRUDDIN,RAPI Daerah 29 Papua Barat,Manokwari,Distrik Manokwari Barat
+280073,JZ18ACK,SUTAN P. LUBIS,RAPI Daerah 18 Kalimantan Timur,Kota Balikpapan,
+280074,JZ10EEI,E. GUNAWAN,RAPI Daerah 10 Jawa Barat,Kota Tasikmalaya,Kawalu
+280075,JZ04AHU,JOHAN GOZALI,RAPI Daerah 04 Riau,Kota Pekanbaru,Payung Sekaki
+280076,JZ13AZL,SUPRIYADI,RAPI Daerah 13 Jawa Timur,Kota Surabaya,Sukolilo
+280077,JZ12ANT,YUDHA BAGAS RIZALDHI,RAPI Daerah 12 Daerah Istimewa Yogyakarta,Sleman,Moyudan
+280078,JZ29SAS,WIKARSA PRIMA SARI,RAPI Daerah 29 Papua Barat,Sorong,Distrik Aimas
+280079,JZ04FNE,ADMIRAL,RAPI Daerah 04 Riau,Kota Dumai,Dumai Timur
+280080,JZ04MIB,R.H. MIDJAYA HELMI,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280081,JZ13CUZ,PRASETYO ARDI NUGROHO,RAPI Daerah 13 Jawa Timur,Ponorogo,Jenangan
+280082,JZ04NTO,HIMANTO,RAPI Daerah 04 Riau,Kuantan Singingi,Kuantan Tengah
+280083,JZ02TGK,ANDI S HARAHAP,RAPI Daerah 02 Sumatera Utara,Padang Sidimpuan,Padang Sidimpuan
+280084,JZ04EAV,ASIR,RAPI Daerah 04 Riau,Bengkalis,Bengkalis
+280085,JZ04AKR,RIMON  USMAN,RAPI Daerah 04 Riau,Kota Pekanbaru,Tampan
+280086,JZ09LNA,IMAM DJAUHARI,RAPI Daerah 09 DKI Jakarta,Kota Jakarta Timur,Ciracas
+280087,JZ04MZH,HERIANDI BAHARUDDIN,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280088,JZ29TAN,FREDRIK GERALD TAN WAIRARA,RAPI Daerah 29 Papua Barat,Sorong,Distrik Mayamuk
+280089,JZ29ER,ILYAS RAMLAN,RAPI Daerah 29 Papua Barat,Kota Sorong,Sorong Timur
+280090,JZ04ARO,HARYANTO,RAPI Daerah 04 Riau,Kota Pekanbaru,Marpoyan Damai
+280091,JZ04MAK,SUSIYANTO,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280092,JZ04MGF,SYAMSUL  ALAM,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280093,JZ04MAG,BAMBANG WIJAYA,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280094,JZ02TUU,AKHIRMA ALFIANA SIREGAR,RAPI Daerah 02 Sumatera Utara,Kota Padang Sidempuan,Padang Sidempuan Selatan
+280095,JZ09HIA,EKO BUDHI SANTOSO,RAPI Daerah 09 DKI Jakarta,Kota Jakarta Timur,Pasar Rebo
+280096,JZ04FPI,SELAMAT RIADI,RAPI Daerah 04 Riau,Kota Dumai,Dumai Timur
+280097,JZ04FRT,RIO ARWANDITA,RAPI Daerah 04 Riau,Kota Dumai,Dumai Barat
+280098,JZ23DYP,FRANSISKUS PANDIBU,RAPI Daerah 23 Sulawesi Tengah,Kota Poso,Lage
+280099,JZ23DYV,FREDERICK IDRIS TORIPALU,RAPI Daerah 23 Sulawesi Tengah,Kota Poso,Lage
+280100,JZ23GIO,JERRY KALVARI PELENSA,RAPI Daerah 23 Sulawesi Tengah,Kota Poso,Poso
+280101,JZ04MEN,HENDRI,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280102,JZ04MPG,DELVI SUWANDI,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280103,JZ04MAT,AHMAD HARAHAP,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280104,JZ04MAB,SUTRISNO,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280105,JZ13AGL,HENDRO KRISTANTYO,RAPI Daerah 13 Jawa Timur,Kota Surabaya,Wonokromo
+280106,JZ02ERT,RINTO SIMATUPANG,RAPI Daerah 02 Sumatera Utara,Langkat,Gebang
+280107,JZ29AZU,EDI SANTOSO,RAPI Daerah 29 Papua Barat,Kota Sorong,Sorong Timur
+280108,JZ04MZZ,MAROJAHAN HP TOBING,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280109,JZ04MTS,TRI SAKTI TAVIF. S,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280110,JZ04MSD,SUWARDI,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280111,JZ04AIM,REZA FAHLEVI,RAPI Daerah 04 Riau,Kota Pekanbaru,Rumbai Pesisir
+280112,JZ04MKZ,WEMPI  KAMRI,RAPI Daerah 04 Riau,Pelalawan,Pangkalan Kerinci
+280113,JZ13BIX,MOHAMMAD HARI YAMIN,RAPI Daerah 13 Jawa Timur,Bangkalan,Bangkalan
+280114,JZ04AGD,MUHAMMAD JAMAL,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280115,JZ04AHN,ABU UBAIDAH,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280116,JZ04ANS,MUHAMMAD ROIS CANDRA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280117,JZ04BCA,DOA SULAIMAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280118,JZ04BCC,ADI FIRDAUS,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280119,JZ04BCD,SYAFRIZAL,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280120,JZ04BDA,T.EFRI SYAHPUTRA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280121,JZ04BDR,FIKTOR SIRAIT,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280122,JZ04BEC,M ANDRE SAPUTRA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280123,JZ04BFB,KHURFIAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280124,JZ04MAC,KARDINAL ERANDA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280125,JZ04MAE,SUTRISNO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280126,JZ04MAF,EDI SURYANTO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280127,JZ04MAH,AMINUDDIN HASIBUAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280128,JZ04MAJ,TRI ROMAWI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280129,JZ04MAL,ZAIMAN Z,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280130,JZ04MAO,ARSYAD,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280131,JZ04MAP,MUHTAR SANUSI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280132,JZ04MAQ,BOEDI SETYONO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280133,JZ04MAR,AFRIZAL RIFIANTO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280134,JZ04MAS,IZAN HENDRA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280135,JZ04MAU,DEFRIADI, SE,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280136,JZ04MAW,AWALUDDIN MALIK,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280137,JZ04MBA,AGUS SETIYA BUDI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280138,JZ04MBL,JULIASMANSYA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280139,JZ04MBM,ZULFAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280140,JZ04MBY,BUSTAMIR,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280141,JZ04MCA,CHAIRUL AMRI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280142,JZ04MCB,CUNCUN WIBOWO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280143,JZ04MCD,WAHID KURNIAWAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280144,JZ04MCT,JAMALUDDIN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280145,JZ04MCW,WANTO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280146,JZ04MDK,SARBAINI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280147,JZ04MDT,BOYRI WELJA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280148,JZ04MEC,BACHRON,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280149,JZ04MES,EDY SURYANTO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280150,JZ04MEU,JUNIARTI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280151,JZ04MZA,HENDRI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280152,JZ04MGX,LIKMAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280153,JZ04MHP,ERFANDI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280154,JZ04MHS,HERI SUSENO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280155,JZ04MIW,EFFENDI SEMBIRING,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280156,JZ04MJB,ANTON,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280157,JZ04MJH,JASMI HENDRIK,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280158,JZ04MKK,KAMARUDIN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280159,JZ04MLE,INDRA ISKANDAR,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280160,JZ04MNH,NUNIK HERMAWATI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280161,JZ04MNS,IKHWANUL ARIF RAMLI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280162,JZ04MON,SUPRAMONO HADI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280163,JZ04MPO,ALILUDIN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280164,JZ04MQB,H. SYAFEI JAAFAR,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280165,JZ04MQS,IRNA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280166,JZ04MRB,NASIB,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280167,JZ04MRG,ERMAN,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280168,JZ04MRJ,HENDRA SAPUTRA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280169,JZ04MRN,RUSANI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280170,JZ04MRO,REDIANTO,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280171,JZ04MRP,RUDI PRAWISKA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280172,JZ04MRV,RIVA ORDIVA,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280173,JZ04MSB,SAMSUL BAHRI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280174,JZ04MSR,SYAHRUL,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280175,JZ04MVL,IBRAHIM,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280176,JZ04MYD,OKTAVIA YENDRI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
+280177,JZ04MYS,YUSRI WANDI,RAPI Daerah 04 Riau,Pelalawan,Pkl. Kerinci
