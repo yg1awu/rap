@@ -210,5 +210,10 @@
       "callsign": "RAPI Daerah 34 SULBAR",
       "tgid": "TG134"
    },
+   {
+       "id": 9999,
+       "callsign": "Parrot",
+       "tgid": "TG9999"
+   },
 ]
 }
