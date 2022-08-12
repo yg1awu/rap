@@ -1,219 +1,558 @@
 {
   "results": [
-   {
-      "id": 1,
-      "callsign": "LOCAL TG1",
-      "tgid": "TG1"
-   },
-   {
-      "id": 2,
-      "callsign": "LOCAL/CLUSTER TG2",
-      "tgid": "TG2"
-   },
-   {
-      "id": 6,
-      "callsign": "HB Reflector",
-      "tgid": "TG6"
-   },
-       {
-      "id": 7,
-      "callsign": "HB Local",
-      "tgid": "TG7"
-   },
-   {
-      "id": 8,
-      "callsign": "HB Cluster",
-      "tgid": "TG8"
-   },
-   {
-      "id": 9,
-      "callsign": "TG LOCAL",
-      "tgid": "TG9"
-   },
-   {
-      "id": 5155,
-      "callsign": "RAPINAS",
-      "tgid": "TG5155"
-   },
-   {
-      "id": 10005155,
-      "callsign": "RAPINAS LAMA",
-      "tgid": "TG92"
-   },
-   {
-      "id": 101,
-      "callsign": "RAPI Daerah 01 ACEHh",
-      "tgid": "TG1010000"
-   },
-   {
-      "id": 102,
-      "callsign": "RAPI Daerah 02 SUMUT",
-      "tgid": "TG102"
-   },
-   {
-      "id": 103,
-      "callsign": "RAPI Daerah 02 SUMBAR",
-      "tgid": "TG103"
-   },
-   {
-      "id": 104,
-      "callsign": "RAPI Daerah 04 RIAU",
-      "tgid": "TG104"
-   },
-   {
-      "id": 105,
-      "callsign": "RAPI Daerah 05 JAMBI",
-      "tgid": "TG105"
-   },
-   {
-      "id": 106,
-      "callsign": "RAPI Daerah 06 SUMSEL",
-      "tgid": "TG106"
-   },
-   {
-      "id": 107,
-      "callsign": "RAPI Daerah 07 BENGKULU",
-      "tgid": "TG107"
-   },
-   {
-      "id": 108,
-      "callsign": "RAPI Daerah 08 LAMPUNG",
-      "tgid": "TG108"
-   },
-   {
-      "id": 109,
-      "callsign": "RAPI Daerah 09 DKI JAKARTA",
-      "tgid": "TG109"
-   },
-   {
-      "id": 110,
-      "callsign": "RAPI Daerah 10 JABAR",
-      "tgid": "TG110"
-   },
-   {
-      "id": 111,
-      "callsign": "RAPI Daerah 11 JATENG",
-      "tgid": "TG111"
-   },
-   {
-      "id": 112,
-      "callsign": "RAPI Daerah 12 DI YOGYA",
-      "tgid": "TG112"
-   },
-   {
-      "id": 113,
-      "callsign": "RAPI Daerah 13 JATIM",
-      "tgid": "TG222"
-   },
-   {
-      "id": 114,
-      "callsign": "RAPI Daerah 14 BALI",
-      "tgid": "TG114"
-   },
-   {
-      "id": 115,
-      "callsign": "RAPI Daerah 15 NTB",
-      "tgid": "TG115"
-   },
-   {
-      "id": 116,
-      "callsign": "RAPI Daerah 16 NTBT",
-      "tgid": "TG116"
-   },
-   {
-      "id": 117,
-      "callsign": "RAPI Daerah 17 KALUT",
-      "tgid": "TG117"
-   },
-   {
-      "id": 118,
-      "callsign": "RAPI Daerah 18 KALTIM",
-      "tgid": "TG118"
-   },
-   {
-      "id": 119,
-      "callsign": "RAPI Daerah 19 KALSEL",
-      "tgid": "TG119"
-   },
-   {
-      "id": 120,
-      "callsign": "RAPI Daerah 20 KALTENG",
-      "tgid": "TG120"
-   },
-   {
-      "id": 121,
-      "callsign": "RAPI Daerah 21 KALBAR",
-      "tgid": "TG121"
-   },
-   {
-      "id": 122,
-      "callsign": "RAPI Daerah 22 SULUT",
-      "tgid": "TG122"
-   },
-   {
-      "id": 123,
-      "callsign": "RAPI Daerah 23 SULTENGAH",
-      "tgid": "TG122"
-   },
-   {
-      "id": 124,
-      "callsign": "RAPI Daerah 24 SULTRA",
-      "tgid": "TG124"
-   },
-   {
-      "id": 125,
-      "callsign": "RAPI Daerah 25 SULTENGRA",
-      "tgid": "TG125"
-   },
-   {
-      "id": 126,
-      "callsign": "RAPI Daerah 26 MALUKU",
-      "tgid": "TG126"
-   },
-   {
-      "id": 127,
-      "callsign": "RAPI Daerah 27 PAPUA",
-      "tgid": "TG127"
-   },
-   {
-      "id": 128,
-      "callsign": "RAPI Daerah 28 MALUT",
-      "tgid": "TG128"
-   },
-   {
-      "id": 129,
-      "callsign": "RAPI Daerah 29 PAPBAR",
-      "tgid": "TG129"
-   },
-   {
-      "id": 130,
-      "callsign": "RAPI Daerah 30 BANTEN",
-      "tgid": "TG130"
-   },
-   {
-      "id": 131,
-      "callsign": "RAPI Daerah 31 BBEL",
-      "tgid": "TG131"
-   },
-   {
-      "id": 132,
-      "callsign": "RAPI Daerah 32 GORONTALO",
-      "tgid": "TG132"
-   },
-   {
-      "id": 133,
-      "callsign": "RAPI Daerah 33 KEPRI",
-      "tgid": "TG133"
-   },
-   {
-      "id": 134,
-      "callsign": "RAPI Daerah 34 SULBAR",
-      "tgid": "TG134"
-   },
-   {
-       "id": 9999,
-       "callsign": "Parrot",
-       "tgid": "TG9999"
-   }
+{
+	"id": 9,
+	"callsign": "PERCOBAAN",
+	"tgid": "TG9"
+},
+{
+	"id": 91,
+	"callsign": "Gabungan Kebencanaan",
+	"tgid": "TG91"
+},
+{
+	"id": 100,
+	"callsign": "BNBP",
+	"tgid": "TG100"
+},
+{
+	"id": 8,
+	"callsign": "HB Cluster",
+	"tgid": "TG8"
+},
+{
+	"id": 6,
+	"callsign": "HB Reflector",
+	"tgid": "TG6"
+},
+{
+	"id": 7,
+	"callsign": "HB Local",
+	"tgid": "TG7"
+},
+{
+	"id": 90,
+	"callsign": "DUKOM KEBENCANAAN",
+	"tgid": "TG90"
+},
+{
+	"id": 5155,
+	"callsign": "DMR ID NASIONAL",
+	"tgid": "TG5155"
+},
+{
+	"id": 201,
+	"callsign": "RAPIDA 01 ACEH",
+	"tgid": "TG201"
+},
+{
+	"id": 202,
+	"callsign": "RAPIDA 02 SUMUT",
+	"tgid": "TG202"
+},
+{
+	"id": 203,
+	"callsign": "RAPIDA 03 SUMBAR",
+	"tgid": "TG203"
+},
+{
+	"id": 204,
+	"callsign": "RAPIDA 04 RIAU",
+	"tgid": "TG204"
+},
+{
+	"id": 205,
+	"callsign": "RAPIDA 05 JAMBI",
+	"tgid": "TG205"
+},
+{
+	"id": 206,
+	"callsign": "RAPIDA 06 SUMSEL",
+	"tgid": "TG206"
+},
+{
+	"id": 207,
+	"callsign": "RAPIDA 07 BENGKULU",
+	"tgid": "TG207"
+},
+{
+	"id": 208,
+	"callsign": "RAPIDA 08 LAMPUNG",
+	"tgid": "TG208"
+},
+{
+	"id": 209,
+	"callsign": "RAPIDA 09 DKI",
+	"tgid": "TG209"
+},
+{
+	"id": 210,
+	"callsign": "RAPIDA 10 JABAR",
+	"tgid": "TG210"
+},
+{
+	"id": 211,
+	"callsign": "RAPIDA 11 JATENG",
+	"tgid": "TG211"
+},
+{	"id": 212,
+	"callsign": "RAPIDA 12 DIY",
+	"tgid": "TG212"
+},
+{
+	"id": 213,
+	"callsign": "RAPIDA 13 JATIM",
+	"tgid": "TG213"
+},
+{
+	"id": 214,
+	"callsign": "RAPIDA 14 BALI",
+	"tgid": "TG214"
+},
+{
+	"id": 215,
+	"callsign": "RAPIDA 15 NTB",
+	"tgid": "TG215"
+},
+{
+	"id": 216,
+	"callsign": "RAPIDA 16 NTT",
+	"tgid": "TG216"
+},
+{
+	"id": 217,
+	"callsign": "RAPIDA 17 KALUT",
+	"tgid": "TG217"
+},
+{
+	"id": 218,
+	"callsign": "RAPIDA 18 KALTIM",
+	"tgid": "TG218"
+},
+{
+	"id": 219,
+	"callsign": "RAPIDA 19 KALS",
+	"tgid": "TG219"
+},
+{
+	"id": 220,
+	"callsign": "RAPIDA 20 KALSEL",
+	"tgid": "TG220"
+},
+{
+	"id": 221,
+	"callsign": "RAPIDA 21 KALBAR",
+	"tgid": "TG221"
+},
+{
+	"id": 222,
+	"callsign": "RAPIDA 22 SULUT",
+	"tgid": "TG222"
+},
+{
+	"id": 223,
+	"callsign": "RAPIDA 23 SULTENG",
+	"tgid": "TG223"
+},
+{
+	"id": 224,
+	"callsign": "RAPIDA 24 SULSEL",
+	"tgid": "TG224"
+},
+{
+	"id": 225,
+	"callsign": "RAPIDA 25 SULTRA",
+	"tgid": "TG225"
+},
+{
+	"id": 226,
+	"callsign": "RAPIDA 26 MALUKU",
+	"tgid": "TG226"
+},
+{
+	"id": 227,
+	"callsign": "RAPIDA 27 PAPUA",
+	"tgid": "TG227"
+},
+{
+	"id": 228,
+	"callsign": "RAPIDA 28 MALUT",
+	"tgid": "TG228"
+},
+{
+	"id": 229,
+	"callsign": "RAPIDA 29 PAPBAR",
+	"tgid": "TG229"
+},
+{
+	"id": 230,
+	"callsign": "RAPIDA 30 BANTEN",
+	"tgid": "TG230"
+},
+{
+	"id": 231,
+	"callsign": "RAPIDA 31 BABEL",
+	"tgid": "TG231"
+},
+{
+	"id": 232,
+	"callsign": "RAPIDA 32 GORONTALO",
+	"tgid": "TG232"
+},
+{
+	"id": 233,
+	"callsign": "RAPIDA 33 KEPRI",
+	"tgid": "TG233"
+},
+{
+	"id": 234,
+	"callsign": "RAPIDA 34 SULBAR",
+	"tgid": "TG234"
+},
+{
+	"id": 111,
+	"callsign": "BPBD ACEH",
+	"tgid": "TG111"
+},
+{
+	"id": 112,
+	"callsign": "BPBD SUMUT",
+	"tgid": "TG112"
+},
+{
+	"id": 113,
+	"callsign": "BPBD SUMBAR",
+	"tgid": "TG113"
+},
+{
+	"id": 114,
+	"callsign": "BPBD RIAU",
+	"tgid": "TG114"
+},
+{
+	"id": 115,
+	"callsign": "BPBD JAMBI",
+	"tgid": "TG115"
+},
+{
+	"id": 116,
+	"callsign": "BPBD SUMSEL",
+	"tgid": "TG116"
+},
+{
+	"id": 117,
+	"callsign": "BPBD BENGKULU",
+	"tgid": "TG117"
+},
+{
+	"id": 118,
+	"callsign": "BPBD LAMPUNG",
+	"tgid": "TG118"
+},
+{
+	"id": 119,
+	"callsign": "BPBD BABEL",
+	"tgid": "TG119"
+},
+{
+	"id": 121,
+	"callsign": "BPBD KEPRI",
+	"tgid": "TG121"
+},
+{
+	"id": 131,
+	"callsign": "BPBD DKI",
+	"tgid": "TG131"
+},
+{
+	"id": 132,
+	"callsign": "BPBD JABAR",
+	"tgid": "TG132"
+},
+{
+	"id": 133,
+	"callsign": "BPBD JATENG",
+	"tgid": "TG133"
+},
+{
+	"id": 134,
+	"callsign": "BPBD DIY",
+	"tgid": "TG134"
+},
+{
+	"id": 135,
+	"callsign": "BPBD JATIM",
+	"tgid": "TG135"
+},
+{
+	"id": 136,
+	"callsign": "BPBD BANTEN",
+	"tgid": "TG136"
+},
+{
+	"id": 151,
+	"callsign": "BPBD BALI",
+	"tgid": "TG151"
+},
+{
+	"id": 152,
+	"callsign": "BPBD NTB",
+	"tgid": "TG152"
+},
+{
+	"id": 153,
+	"callsign": "BPBD NTT",
+	"tgid": "TG153"
+},
+{
+	"id": 161,
+	"callsign": "BPBD KALBAR",
+	"tgid": "TG161"
+},
+{
+	"id": 162,
+	"callsign": "BPBD KALTENG",
+	"tgid": "TG162"
+},
+{
+	"id": 163,
+	"callsign": "BPBD KALSEL",
+	"tgid": "TG163"
+},
+{
+	"id": 164,
+	"callsign": "BPBD KALTIM",
+	"tgid": "TG164"
+},
+{
+	"id": 165,
+	"callsign": "BPBD KALUT",
+	"tgid": "TG165"
+},
+{
+	"id": 171,
+	"callsign": "BPBD SULUT",
+	"tgid": "TG171"
+},
+{
+	"id": 172,
+	"callsign": "BPBD SULTENG",
+	"tgid": "TG172"
+},
+{
+	"id": 173,
+	"callsign": "BPBD SULSEL",
+	"tgid": "TG173"
+},
+{
+	"id": 174,
+	"callsign": "BPBD SULTRA",
+	"tgid": "TG174"
+},
+{
+	"id": 175,
+	"callsign": "BPBD GORONTALO",
+	"tgid": "TG175"
+},
+{
+	"id": 176,
+	"callsign": "BPBD SULBAR",
+	"tgid": "TG176"
+},
+{
+	"id": 181,
+	"callsign": "BPBD MALUKU",
+	"tgid": "TG181"
+},
+{
+	"id": 182,
+	"callsign": "BPBD MALUT",
+	"tgid": "TG182"
+},
+{
+	"id": 191,
+	"callsign": "BPBD PAPUA",
+	"tgid": "TG191"
+},
+{
+	"id": 192,
+	"callsign": "BPBD PAPBAR",
+	"tgid": "TG192"
+},
+{
+	"id": 511,
+	"callsign": "DMR ID ACEH",
+	"tgid": "TG511"
+},
+{
+	"id": 512,
+	"callsign": "DMR ID SUMUT",
+	"tgid": "TG512"
+},
+{
+	"id": 513,
+	"callsign": "DMR ID SUMBAR",
+	"tgid": "TG513"
+},
+{
+	"id": 514,
+	"callsign": "DMR ID RIAU",
+	"tgid": "TG514"
+},
+{
+	"id": 515,
+	"callsign": "DMR ID JAMBI",
+	"tgid": "TG515"
+},
+{
+	"id": 516,
+	"callsign": "DMR ID SUMSEL",
+	"tgid": "TG516"
+},
+{
+	"id": 517,
+	"callsign": "DMR ID BENGKULU",
+	"tgid": "TG517"
+},
+{
+	"id": 518,
+	"callsign": "DMR ID LAMPUNG",
+	"tgid": "TG518"
+},
+{
+	"id": 519,
+	"callsign": "DMR ID BABEL",
+	"tgid": "TG519"
+},
+{
+	"id": 521,
+	"callsign": "DMR ID KEPRI",
+	"tgid": "TG521"
+},
+{
+	"id": 531,
+	"callsign": "DMR ID DKI",
+	"tgid": "TG531"
+},
+{
+	"id": 532,
+	"callsign": "DMR ID JABAR",
+	"tgid": "TG532"
+},
+{
+	"id": 533,
+	"callsign": "DMR ID JATENG",
+	"tgid": "TG533"
+},
+{
+	"id": 534,
+	"callsign": "DMR ID DIY",
+	"tgid": "TG534"
+},
+{
+	"id": 535,
+	"callsign": "DMR ID JATIM",
+	"tgid": "TG535"
+},
+{
+	"id": 536,
+	"callsign": "DMR ID BANTEN",
+	"tgid": "TG536"
+},
+{
+	"id": 551,
+	"callsign": "DMR ID BALI",
+	"tgid": "TG551"
+},
+{
+	"id": 552,
+	"callsign": "DMR ID NTB",
+	"tgid": "TG552"
+},
+{
+	"id": 553,
+	"callsign": "DMR ID NTT",
+	"tgid": "TG553"
+},
+{
+	"id": 561,
+	"callsign": "DMR ID KALBAR",
+	"tgid": "TG561"
+},
+{
+	"id": 562,
+	"callsign": "DMR ID KALTENG",
+	"tgid": "TG562"
+},
+{
+	"id": 563,
+	"callsign": "DMR ID KALSEL",
+	"tgid": "TG563"
+},
+{
+	"id": 564,
+	"callsign": "DMR ID KALTIM",
+	"tgid": "TG564"
+},
+{
+	"id": 565,
+	"callsign": "DMR ID KALUT",
+	"tgid": "TG565"
+},
+{
+	"id": 571,
+	"callsign": "DMR ID SULUT",
+	"tgid": "TG571"
+},
+{
+	"id": 572,
+	"callsign": "DMR ID SULTENG",
+	"tgid": "TG572"
+},
+{
+	"id": 573,
+	"callsign": "DMR ID SULSEL",
+	"tgid": "TG573"
+},
+{
+	"id": 574,
+	"callsign": "DMR ID SULTRA",
+	"tgid": "TG574"
+},
+{
+	"id": 575,
+	"callsign": "DMR ID GORONTALO",
+	"tgid": "TG575"
+},
+{
+	"id": 576,
+	"callsign": "DMR ID SULBAR",
+	"tgid": "TG576"
+},
+{
+	"id": 581,
+	"callsign": "DMR ID MALUKU",
+	"tgid": "TG581"
+},
+{
+	"id": 582,
+	"callsign": "DMR ID MALUT",
+	"tgid": "TG582"
+},
+{
+	"id": 591,
+	"callsign": "DMR ID PAPUA",
+	"tgid": "TG591"
+},
+{
+	"id": 592,
+	"callsign": "DMR ID PAPBAR",
+	"tgid": "TG592"
+},
+{
+	"id": 9999,
+	"callsign": "ECHO PARROT",
+	"tgid": "TG9999"
+}
 ]
 }
